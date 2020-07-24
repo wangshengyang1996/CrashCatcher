@@ -1,0 +1,3 @@
+include ':crashdumper'
+include ':app'
+rootProject.name = "CrashCatcher"
